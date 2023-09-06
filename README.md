@@ -82,4 +82,4 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 **StreamPayments™** - Transforming the Future of Decentralized Finance (DeFi)
-Website: [https://streamprotocol.org](https://streamprotocol.org) (Coming Soon)
+Website: [https://streamprotocol.org](https://streampayments.org) (Coming Soon)
